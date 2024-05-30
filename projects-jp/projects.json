@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ララベルバンキングウェブサイト",
+    "desc": "Java、XML、SQLite、Firebase、RoomDB、MVVMを使用して構築されたさまざまなデザインパターンに基づいた完全なAndroid CRUDアプリ。",
+    "image": "invoice_laravel",
+    "category": "フルスタック",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Vueバンキングウェブサイト",
+    "desc": "Java、XML、SQLite、Firebase、RoomDB、MVVMを使用して構築されたさまざまなデザインパターンに基づいた完全なAndroid CRUDアプリ。",
+    "image": "Mevn",
+    "category": "フルスタック",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "React病院ウェブサイト",
+    "desc": "Java、XML、SQLite、Firebase、RoomDB、MVVMを使用して構築されたさまざまなデザインパターンに基づいた完全なAndroid CRUDアプリ。",
+    "image": "react-hospital",
+    "category": "フロントエンドデザイン",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Wordpressランディングページ",
+    "desc": "Java、XML、SQLite、Firebase、RoomDB、MVVMを使用して構築されたさまざまなデザインパターンに基づいた完全なAndroid CRUDアプリ。",
+    "image": "LP-m-vision-10",
+    "category": "ウェブページデザイン",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "PUG + SCSSランディングページ",
+    "desc": "Java、XML、SQLite、Firebase、RoomDB、MVVMを使用して構築されたさまざまなデザインパターンに基づいた完全なAndroid CRUDアプリ。",
+    "image": "LP-workandplace-sauna",
+    "category": "ウェブページデザイン",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "HTML5 + CSS3ランディングページ",
+    "desc": "Java、XML、SQLite、Firebase、RoomDB、MVVMを使用して構築されたさまざまなデザインパターンに基づいた完全なAndroid CRUDアプリ。",
+    "image": "LP-asaba-clinic",
+    "category": "ウェブページデザイン",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "HTML5 LP（デザインを含む）",
+    "desc": "Java、XML、SQLite、Firebase、RoomDB、MVVMを使用して構築されたさまざまなデザインパターンに基づいた完全なAndroid CRUDアプリ。",
+    "image": "LP-storage",
+    "category": "ウェブページデザイン",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
